@@ -1,0 +1,21 @@
+img{
+    width: 10%;
+    border: 5px solid white ;
+}
+body{
+    background-color:hsl(6, 33%, 52%);
+    color:white;
+}
+H1,H2,H3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:link{
+    color:whitesmoke;
+    text-decoration:none;
+}
+a:hover{
+    color:brown;
+}
+a:active{
+    color:yellow;
+}
